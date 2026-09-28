@@ -1,5 +1,4 @@
-\#TacLinkArm
-
+# TacLinkArm
 
 
 &#x20;  근전도(sEMG) 신호로 로봇 그리퍼를 움직이고, 그리퍼가 느낀 압력을 진동으로
